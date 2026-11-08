@@ -48,8 +48,6 @@ UI (Jetpack Compose) ──> ViewModel (StateFlow) ──> Casos de Uso (domain/
 - [Metodología Estadística](docs/METODOLOGIA.md)
 - [Ética y Lenguaje Responsable](docs/ETICA.md)
 - [Evaluación del Módulo de IA](docs/EVALUACION_IA.md)
-- [Guion de Video (3 Minutos)](docs/GUION_VIDEO_IA.md)
-- [Seguimiento de Progreso](docs/PROGRESO.md)
 
 ---
 
