@@ -6,7 +6,7 @@ MoodWave no realiza diagnósticos médicos ni sustituye atención profesional.
 
 # MoodWave 🌊 - Diario Emocional y Descubrimiento de Patrones
 
-MoodWave es una aplicación nativa para Android desarrollada con **Kotlin, Jetpack Compose, Room (SQLite), Navigation Compose, DataStore y BiometricPrompt**. Su propósito es ofrecer un espacio íntimo, privado y científicamente transparente para el registro diario del estado de ánimo y el descubrimiento autónomo de patrones de bienestar.
+MoodWave es una aplicación nativa para Android desarrollada con **Kotlin, Jetpack Compose, Room (SQLite), Navigation Compose, DataStore y BiometricPrompt**. Su propósito es ofrecer un espacio íntimo, privado y transparente para el registro diario del estado de ánimo y el descubrimiento autónomo de patrones de bienestar.
 
 ---
 
@@ -53,11 +53,3 @@ UI (Jetpack Compose) ──> ViewModel (StateFlow) ──> Casos de Uso (domain/
 
 ---
 
-## 📸 Lista de Capturas de Pantalla por Tomar
-1. **Pantalla Principal (Home)** con saludo dinámico, widget semanal y tarjeta de racha (Tema Verde Naturaleza).
-2. **Pantalla de Registro** (Stepper vertical con cuadrícula 4x2 de ánimos y selector de energía).
-3. **Pantalla de Análisis y Patrones** (Resumen general con $n$ y tarjetas de insights destacados).
-4. **Pantalla de Tendencias** (Gráfica de media móvil con eje Y de 1 a 8 y mapa de calor semanal).
-5. **Modal "¿Por qué veo esto?"** (Desglose científico de confianza, $n$, fechas y tamaño de efecto).
-6. **Alerta de Señal de Riesgo** (Mensaje empático con contacto a la Línea de la Vida).
-7. **Configuración de Privacidad y Respaldo** (Exportación JSON y opciones de cifrado).
